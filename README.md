@@ -1,5 +1,5 @@
 # 🚀 About Me:
-					Atualmente fundando uma startup de facilitação de mão de obra na construção civil, através de um marketplace, e um ERP utilizando majoralmente Node.js e React, buscando aprimorar as skils de typescript e Node.js<br>
+					Atualmente fundando uma startup de facilitação de mão de obra na construção civil, através de um marketplace, e um ERP utilizando majoralmente Node.js e React, buscando aprimorar as skils de typescript e Node.js
 
 
 ## 🌐 Socials:
