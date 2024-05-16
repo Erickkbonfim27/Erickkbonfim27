@@ -1,6 +1,5 @@
 # 🚀 About Me:
-					Atualmente fundando uma startup de facilitação de mão de obra na construção civil, através de um marketplace, e um ERP utilizando majoralmente Node.js e React, buscando aprimorar as skils de typescript e Node.js
-
+					
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/erick.kbonfim.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/erickkbonfim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erick-kopak-bonfim-6048561a3/) 
