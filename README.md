@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalhando como CTO na [Vizzion](https://www.vizzion.tech)
 
-- 💬 Ask me about **react, angulaJS, java, nodeJS typescript**
+- 💬 Ask me about **React, angulaJS, java, nodeJS typescript Python, Data Science, Analytics and Coffe**
 
 - 📫 How to reach me **erickkbonfim@gmail.com**
 
