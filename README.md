@@ -2,10 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickkbonfim27" alt="erickkbonfim27" /></a> </p>
 
-- 🔭 Atualmente trabalhando como CTO na [Vizzion](https://www.vizzion.tech)
-
-- 💬 Ask me about **React, angulaJS, java, nodeJS typescript Python, Data Science, Analytics and Coffe**
-
 - 📫 How to reach me **erickkbonfim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
