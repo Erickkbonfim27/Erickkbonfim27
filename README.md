@@ -1,4 +1,4 @@
-<h3 align="center">Entusiasta de inteligência artificial e geoplanejamento, além do bom desenvolvimento web</h3>
+<h3 align="center">Entusiasta em dados, apaixonado por construir</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickkbonfim27" alt="erickkbonfim27" /></a> </p>
 
